@@ -1,4 +1,6 @@
-# pandemic-simulator
+# Pandemic Simulator
+
+![Screenshot](https://raw.githubusercontent.com/ascentcore/ascentcore.github.io/master/assets/static/showcase_thumb-3-1.png)
 
 Clone the repository:
 
